@@ -9,7 +9,7 @@
 
 ## 🚀 Demo
 
-![App Preview](![Image](https://github.com/user-attachments/assets/2e5518a7-4a71-4e10-9e47-85425aa10dd9))
+![App Preview] (![Image](https://github.com/user-attachments/assets/2e5518a7-4a71-4e10-9e47-85425aa10dd9))
 
 > 📌 Make sure to upload your image to the `images/` folder in your repo and update the path above accordingly.
 
