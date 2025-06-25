@@ -10,6 +10,9 @@
 ## 🚀 Demo
 
 ![App Preview] (![Image](https://github.com/user-attachments/assets/2e5518a7-4a71-4e10-9e47-85425aa10dd9))
+![Image](https://github.com/user-attachments/assets/b1500106-53cb-4f43-b119-40b52f7d7d50)
+
+![Image](https://github.com/user-attachments/assets/78bf35fc-de23-496a-a718-108baa5aea10)
 
 > 📌 Make sure to upload your image to the `images/` folder in your repo and update the path above accordingly.
 
