@@ -9,7 +9,7 @@
 
 ## 🚀 Demo
 
-![App Preview](images/preview.png)
+![App Preview]()
 
 > 📌 Make sure to upload your image to the `images/` folder in your repo and update the path above accordingly.
 
@@ -36,5 +36,3 @@ const apiKey = 'your_api_key_here'; // Replace this with your OpenWeatherMap API
 
 📄 License
 This project is licensed under the MIT License.
-output:
-![Image](https://github.com/user-attachments/assets/32ea24b1-7f5b-4b95-a847-5a4393a06042)
