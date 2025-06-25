@@ -1,4 +1,15 @@
 # Wheather_app
+COMPANY: CODITECH IT SOLUTIONS
+
+NAME: Chebrolu Pavani
+
+INTERN ID: CT06DM516
+
+DOMAIN: FULL STACK WEB DEVELOPMENT
+
+BATCH DURATION: MAY 10th, 2025 to June 25th, 2025.
+
+MENTOR NAME: NEELA SANTHOSH KUMAR
  sleek and simple weather app built using **HTML, CSS, and JavaScript**. Users can search for any city and get real-time weather information using the [OpenWeatherMap API](https://openweathermap.org/).
 ## 🔧 Features
 
